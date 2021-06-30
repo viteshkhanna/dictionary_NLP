@@ -1,1 +1,1 @@
-# dictionary_NLP
+# dictionary_NLP_Textblob
